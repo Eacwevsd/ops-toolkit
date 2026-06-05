@@ -248,4 +248,11 @@ sudo apt dist-upgrade -y
 
 ![更新完成](./images/image-47.png)
 
+### 5.6 时间同步
+
+```bash
+sudo timedatectl set-timezone Asia/Shanghai
+date
+```
+
 ## 最小系统安装完毕
